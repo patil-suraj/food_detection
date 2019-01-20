@@ -111,8 +111,8 @@ def main(argv):
                                                 config['train']['train_image_folder'],
                                                 config['model']['labels'])
 
-    grid_w = 816
-    grid_h = 612
+    grid_w = 816 / 32
+    grid_h = 612 / 32
 
     # run k_mean to find the anchors
     annotation_dims = []

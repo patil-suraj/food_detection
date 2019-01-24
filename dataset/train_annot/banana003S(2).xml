@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>banana003S(2).JPG</filename>
+	<path>E:\projects\food-detection\dataset\New folder\banana003S(2).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>253</ymin>
+			<xmax>447</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

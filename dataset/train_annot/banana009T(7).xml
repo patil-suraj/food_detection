@@ -1,19 +1,13 @@
 <annotation>
-	<folder>VOC2007</folder>
+	<folder>New folder</folder>
 	<filename>banana009T(7).JPG</filename>
+	<path>E:\projects\food-detection\dataset\New folder\banana009T(7).JPG</path>
 	<source>
-		<database>My Database</database>
-		<annotation>VOC2007</annotation>
-		<image>flickr</image>
-		<flickrid>NULL</flickrid>
+		<database>Unknown</database>
 	</source>
-	<owner>
-		<flickrid>NULL</flickrid>
-		<name>Liang-yc</name>
-	</owner>
 	<size>
-		<width>816</width>
-		<height>612</height>
+		<width>608</width>
+		<height>608</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -23,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>283</xmin>
-			<ymin>112</ymin>
-			<xmax>517</xmax>
-			<ymax>533</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>coin</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>180</xmin>
-			<ymin>49</ymin>
-			<xmax>236</xmax>
-			<ymax>106</ymax>
+			<xmin>255</xmin>
+			<ymin>106</ymin>
+			<xmax>425</xmax>
+			<ymax>541</ymax>
 		</bndbox>
 	</object>
 </annotation>

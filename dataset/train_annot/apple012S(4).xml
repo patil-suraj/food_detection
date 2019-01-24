@@ -1,19 +1,13 @@
 <annotation>
-	<folder>VOC2007</folder>
+	<folder>resized_608</folder>
 	<filename>apple012S(4).JPG</filename>
+	<path>C:\Users\Sai\Downloads\resized_608\apple012S(4).JPG</path>
 	<source>
-		<database>My Database</database>
-		<annotation>VOC2007</annotation>
-		<image>flickr</image>
-		<flickrid>NULL</flickrid>
+		<database>Unknown</database>
 	</source>
-	<owner>
-		<flickrid>NULL</flickrid>
-		<name>Liang-yc</name>
-	</owner>
 	<size>
-		<width>816</width>
-		<height>612</height>
+		<width>608</width>
+		<height>608</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -23,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>88</ymin>
-			<xmax>385</xmax>
+			<xmin>36</xmin>
+			<ymin>87</ymin>
+			<xmax>284</xmax>
 			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>coin</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>637</xmin>
-			<ymin>243</ymin>
-			<xmax>713</xmax>
-			<ymax>316</ymax>
 		</bndbox>
 	</object>
 </annotation>

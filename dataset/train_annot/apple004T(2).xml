@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_608</folder>
+	<filename>apple004T(2).JPG</filename>
+	<path>C:\Users\Sai\Downloads\resized_608\apple004T(2).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>186</ymin>
+			<xmax>581</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
